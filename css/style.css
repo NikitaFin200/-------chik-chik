@@ -31,7 +31,7 @@ img{
 }
 
 .visually-hidden{
-    position: fixed;
+    /*position: fixed;*/
     transform: scale(0);
 }
 
